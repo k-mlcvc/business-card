@@ -1,1 +1,1 @@
-U branchu sam pokušala dodati neke promjene na html-u i css-u, valjda će uspjeti lol
+ Mergeanje brancha homework-1 sa mainom rezultiralo je promjenom backgrounda i nekim drugim sitnim promjenama na online vizitki.
