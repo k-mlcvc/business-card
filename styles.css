@@ -1,6 +1,7 @@
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 100px;
+    min-height: 100vh;
 }
 
 img{
@@ -9,9 +10,9 @@ img{
 }
 
 .card{
-    background: lightblue;
-    color: #2b2839;
-    border: 6px solid #a796eb;
+    background: rgb(250, 235, 247);
+    color: #5d5a5a;
+    border: 6px solid rgb(239, 208, 208);
     padding: 30px;
     width: 350px;
     text-align: center;
